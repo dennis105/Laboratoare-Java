@@ -1,0 +1,38 @@
+[
+  {
+    "numele": "Ion Popescu",
+    "postul": "director tehnic",
+    "data_angajarii": "2025-04-10",
+    "salariul": 4500.0
+  },
+  {
+    "numele": "Maria Ionescu",
+    "postul": "sef departament",
+    "data_angajarii": "2025-04-20",
+    "salariul": 3800.0
+  },
+  {
+    "numele": "Andrei Marin",
+    "postul": "programator",
+    "data_angajarii": "2025-06-15",
+    "salariul": 3200.0
+  },
+  {
+    "numele": "Elena Stan",
+    "postul": "contabil",
+    "data_angajarii": "2025-08-05",
+    "salariul": 2800.0
+  },
+  {
+    "numele": "Ion Radu",
+    "postul": "operator",
+    "data_angajarii": "2024-03-12",
+    "salariul": 2400.0
+  },
+  {
+    "numele": "Vlad Dumitru",
+    "postul": "sef echipa",
+    "data_angajarii": "2025-07-02",
+    "salariul": 5000.0
+  }
+]
